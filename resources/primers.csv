@@ -6,3 +6,7 @@ light,TGCCATCTGCCTTCCAGGC,false,Rhesus lambda(Outer)Rev2
 light,GCAGGCACACAACAGAGACAG,true,Rhesus kappa(Inner)Rev1
 light,CAGACACACTAGTGTGGCCTTG,true,Rhesus lambda(Inner)Rev1
 heavy,AGTAGTCCTTGACCAGGCAGCCCAG,true,3’Human_IgG(Inner) 5’
+heavy,CCACGCTGCTCGTATCCG,false,Hu_IgM_constant_outer
+heavy,GGGAAAAGGGTTGGGGCGG,true,Hu_IgM_constant_inner
+light,STCCTGCTCTGTGACACTCTC,false,Hum_Rh_3'kappa(outer)
+light,TGCCATCTGCCTTCCAYGC,false,Hum_Rh_3'lambda(outer)
